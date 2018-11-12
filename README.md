@@ -1,5 +1,5 @@
 # RocketLauncher
-Rocket Launcher - A cross platform front end for all DOOM source ports. 
+Rocket Launcher - A cross platform front end for all DOOM source ports. Doom WAD / Mod Manager.
 
 Go here for the current repository: https://github.com/paynworth/RocketLauncher2
 
